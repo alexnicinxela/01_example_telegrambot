@@ -1,0 +1,6 @@
+errors.txt
+/venv
+/.idea
+/__pycache__
+test.py
+token.py
